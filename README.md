@@ -68,6 +68,4 @@ MiniPandas/
 ├── minipandas.py       # Series, Dataframe, GroupedDataframe
 ├── demo.py             # usage examples
 ├── requirements.txt
-└── tests/
-    └── test_minipandas.py
 ```
