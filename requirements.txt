@@ -1,0 +1,1 @@
+# No external dependencies - MiniPandas is built with pure Python (standard library only).
