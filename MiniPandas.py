@@ -4,6 +4,7 @@ class Series:
         
     def __str__(self):
         return str(self.data)
+        
     def __repr__(self):
         return f"Series({self.data})"
     def __len__(self):
